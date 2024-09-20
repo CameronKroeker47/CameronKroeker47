@@ -1,8 +1,12 @@
-<h2 align="left">Hello! I'm Cameron Kroeker</h2>
+<h1 align="left">Hello! I'm Cameron Kroeker</h1>
 
 ###
 
 <p align="left">Aspiring Full Stack Software Engineer | Building dynamic web applications with JavaScript, Express.js, MySQL, and more | Passionate about solving real-world problems with clean, efficient code.</p>
+
+###
+
+<h2 align="left">Skills</h2>
 
 ###
 
@@ -32,9 +36,17 @@
 
 ###
 
+<h2 align="left">Contact</h2>
+
+###
+
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="cameron.kroeker@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/cameron-kroeker-2397572a7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
