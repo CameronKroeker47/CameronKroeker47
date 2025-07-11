@@ -56,7 +56,7 @@
 <h2 align="left">Education History</h2>
 <p>Web Development ✔</p> 
 <p>Introduction to Databases ✔</p> 
-<p>Operating Systems 1 ✔</p> 
+<p>Operating Systems ✔</p> 
 <p>Differential / Integral Calculus ✔</p> 
 <p>COMPUTER ARCH & ASSEM LANGUAGE ✔</p> 
 <p>INTRODUCTION TO SECURITY ✔</p> 
